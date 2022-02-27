@@ -1,0 +1,35 @@
+{
+  "name": "js-describe",
+  "version": "1.0.0",
+  "description": "Generate descriptive statistics.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayserozan/js-describe.git"
+  },
+  "keywords": [
+    "central-tendency",
+    "dispersion",
+    "shape-of-dataset’s-distribution",
+    "mean",
+    "std",
+    "median",
+    "quantile",
+    "min",
+    "max",
+    "count"
+  ],
+  "author": "Ayse Aydogdu Erozan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayserozan/js-describe/issues"
+  },
+  "homepage": "https://github.com/ayserozan/js-describe#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
