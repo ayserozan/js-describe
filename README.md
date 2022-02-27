@@ -7,7 +7,7 @@ Descriptive statistics include those that summarize the min, max value, number o
 ## Installation
 
 ```sh
-$ npm i describe
+$ npm i js-describe
 ```
 
 ## Usage
